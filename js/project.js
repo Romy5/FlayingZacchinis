@@ -10,6 +10,13 @@ $(document).ready(function(){
 	  variableWidth: true,
 	  dots: true,
 	});
+
+	$('.ssk-facebook').on('click',function(){
+	  FB.ui({
+	    method: 'share',
+	    href: window.location.href,
+	  }, function(response){});
+	});
 });
 
 var today = new Date();
@@ -38,10 +45,4 @@ $(".post.tomeet .contentcontainer div h1").after($("<h1>", {class:"category tome
 //$shop.append($('<button>', {id:'purchase'}).text('PURCHASE')) 
 //$shop.append($('<p>', {class:'message'}));
 
-
-
-FB.ui({
-  method: 'share',
-  href: 'https://developers.facebook.com/docs/',
-}, function(response){});
 
