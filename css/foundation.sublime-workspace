@@ -1,0 +1,547 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"get",
+				"getPrice"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"col",
+				"border-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"sa",
+				"squared"
+			],
+			[
+				"sg",
+				"sgShape"
+			],
+			[
+				"scor",
+				"scores"
+			],
+			[
+				"n",
+				"navigate"
+			],
+			[
+				"show",
+				"showAllScores"
+			],
+			[
+				"curre",
+				"currentImage"
+			],
+			[
+				"c",
+				"currentImage"
+			],
+			[
+				"image",
+				"image_to_vote_on"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"test",
+				"testSquare"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"hide",
+				"hideCategory"
+			],
+			[
+				"cat",
+				"categoryName"
+			],
+			[
+				"tot",
+				"totalScoreRobot"
+			],
+			[
+				"toa",
+				"totalScorePlayer"
+			],
+			[
+				"toal",
+				"totalScoreRobot"
+			],
+			[
+				"pl",
+				"plValue"
+			],
+			[
+				"ro",
+				"robotValue"
+			],
+			[
+				"p",
+				"played"
+			],
+			[
+				"amou",
+				"amountAdded"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"v",
+				"valueToAdd"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"re",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"b",
+				"border-top"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ff",
+				"FF0000"
+			],
+			[
+				"l",
+				"solid"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"MAR",
+				"margin-bottom"
+			],
+			[
+				"pe",
+				"padding-left"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"im",
+				"border-image-outset"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"last_filter": "wrap",
+		"selected_items":
+		[
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"font",
+				"Snippet: Google AJAX Libraries: WebFont Loader"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"pro",
+				"Project: Add Folder"
+			]
+		],
+		"width": 367.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 15 - Foundation/romina/foundation-5.5.2/index.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 12 - Objects/romina/MiniProject/sunglassesM.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 12 - Objects/romina/MiniProject/sunglassesM.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 12 - Objects/romina/MiniProject/sunglassesMachine.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 03 - Advanced CSS/romina/fashion_blog_part1/style.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 03 - Advanced CSS/romina/style.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 04 - Layout/romina/fashion_blog/style.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 04 - Layout/romina/css_positioning/css/style.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 04 - Layout/romina/fashion_blog/index1indent.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 12 - Objects/romina/sunglassesM.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 12 - Objects/romina/sunglassesMachine.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 12 - Objects/romina/sunglassesM.html",
+		"/Users/myair/Copy/FEWD8/labs/Lesson - 10 - JS Review/carousel/index.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 10 - JS Review/romina/carousel/index.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 12 - Objects/romina/tamagochi.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 10 - JS Review/romina/carousel/index.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 10 - JS Review/romina/untitledMart.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 10 - JS Review/romina/index.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 10 - JS Review/romina/User Goal",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 09 - jQuery/romina/divided_times/js/index.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 09 - jQuery/romina/index.js",
+		"/Users/myair/Downloads/Catalogue_Visottica_2015 low res.pdf",
+		"/Users/myair/Downloads/advanced_selectors 2/styles.css",
+		"/Users/myair/Downloads/index.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 09 - jQuery/sandra/divided_times/test Erik.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 09 - jQuery/sandra/divided_times/test Erik.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 09 - jQuery/romina/divided_times/index.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 09 - jQuery/romina/divided_times/css/style.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 09 - jQuery/romina/index.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 09 - jQuery/romina/style.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 09 - jQuery/romina/webpage.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 09 - jQuery/romina/position.script ",
+		"/Users/myair/Copy/FEWD8/projects/sandy/wireframe1.JPG",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 08 - Functions/romina/rock_paper_scissors/Sherin.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 08 - Functions/romina/rock_paper_scissors/index.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 08 - Functions/romina/rock_paper_scissors/js/main.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 08 - Functions/romina/cash_register/untitled.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 08 - Functions/romina/main.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 08 - Functions/romina/cashregister.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 08 - Functions/romina/main.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 07 - JS Basics/sandra/temp_converter/css/main.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 05 - Lab Session/romina/startup_matchmaker/style.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 06 - Intro to Programming/romina/traffic_light/index.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 06 - Intro to Programming/lexi/traffic_light/js/script.js",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 05 - Lab Session/romina/startup_matchmaker/index.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 05 - Lab Session/romina/startup_matchmaker/StartupMatchmaker.png",
+		"/Users/myair/Copy/FEWD8/classwork review/Lesson - 04 - Layout - Review.txt",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 05 - Lab Session/romina/startup_matchmaker/startupbanner.jpg",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 04 - Layout/romina/fashion_blog/index1.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 04 - Layout/romina/fashion_blog/style1.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 04 - Layout/romina/fashion_blog/index.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 04 - Layout/romina/fashion_blog/normalize.css",
+		"/Users/myair/Downloads/style_Erik.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 03 - Advanced CSS/romina/fashion_blog_part1/index.html",
+		"/Users/myair/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 04 - Layout/romina/styles.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 04 - Layout/romina/index.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 02 - CSS Basics/romina/style.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 03 - Advanced CSS/romina/div.html",
+		"/Users/myair/Copy/FEWD8/classwork review/Lesson - 02 - CSS Basics - Review",
+		"/Users/myair/Copy/FEWD8/notes/Lesson - 03 - Advanced CSS/slides.md",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 03 - Advanced CSS/romina/box_model/index.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 03 - Advanced CSS/romina/box_model/css/style.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 02 - CSS Basics/romina/about.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 02 - CSS Basics/romina/resumeromina.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 02 - CSS Basics/sandy/about me/style.css",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 02 - CSS Basics/romina/wendy_resume/Betty-White.jpg",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 01 - HTML Basics/sandra/about_me/about_me.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 01 - HTML Basics/sandra/About Me.sublime-project",
+		"/Users/myair/Copy/FEWD8/classwork-review/Lesson - 01 - HTML Basics - Review.txt",
+		"/Users/myair/Copy/FEWD8/notes/Lesson - 01 - HTML Basics/slides.md",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 02 - CSS Basics/romina/fix_it/index.html",
+		"/Users/myair/Copy/FEWD8/copy.md",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 01 - HTML Basics/romina/Copy.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 01 - HTML Basics/romina/resumeromina.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 01 - HTML Basics/romina/cookie_recipe/Cookies Recipe Romina.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 01 - HTML Basics/aoife/cookie_recipe.html",
+		"/Users/myair/Copy/FEWD8/classwork/Lesson - 01 - HTML Basics/alisha/Simple Resume/Resume.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"before",
+			"reachus",
+			"aside",
+			"mainbox",
+			"home",
+			"apply",
+			";\n",
+			"200",
+			"calle",
+			"\");\n",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 74.0
+	},
+	"pinned_build_system": "",
+	"project": "foundation.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"classwork/Lesson - 08 - Functions/romina/cashregister.html"
+			],
+			[
+				"slide",
+				"notes/Lesson - 01 - HTML Basics/slides.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
